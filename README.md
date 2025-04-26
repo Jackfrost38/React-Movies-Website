@@ -1,12 +1,10 @@
-# React + Vite
+This repository contains a simple React-based movies website built using Vite, a fast and efficient build tool for modern web applications. The project provides a minimal setup to get React working with Vite, including Hot Module Replacement (HMR) and some ESLint rules.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Main Function Points
+  Provides a basic structure for a React-based movie website
+  Utilises Vite, a fast and efficient build tool, to set up the development environment
+  Includes ESLint configuration for code quality and consistency
+Technology Stack
+  React: A JavaScript library for building user interfaces
+  Vite: A fast and efficient build tool for modern web applications
+  ESLint: A tool for identifying and fixing problems in JavaScript code
